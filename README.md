@@ -1,2 +1,2 @@
 # SpotifyReader
-Script to read Spotify songs names
+Apple script to read Spotify songs names.
